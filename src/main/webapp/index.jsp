@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Mohit....working in UST, Bangalore,.India/BHARAT</h2>
+<h2>Mohit....working in UST, Jharkhand,.India/BHARAT</h2>
 </body>
 </html>
